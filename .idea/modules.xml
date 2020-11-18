@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/activity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/activity_test.iml" group="activity_test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/activity_test-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/activity_test-app.iml" group="activity_test/app" />
+      <module fileurl="file://$PROJECT_DIR$/androidhelloworld.iml" filepath="$PROJECT_DIR$/androidhelloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
