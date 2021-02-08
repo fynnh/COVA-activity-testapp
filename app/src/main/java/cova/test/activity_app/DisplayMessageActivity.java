@@ -7,6 +7,8 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        System.out.println("ACTIVITY_CHANGE");
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_message);
     }
